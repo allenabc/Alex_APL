@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "APLTutorial",
+			"path": "../../APLTutorial"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
